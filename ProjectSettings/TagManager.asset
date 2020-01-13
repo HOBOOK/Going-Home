@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - pushed
+  - Monster
+  - Wall
+  - EquipWeaponPoint
+  - EquipBackPoint
+  - bullet
+  - Npc
+  - Slope
+  - Rope
+  - attackPoint
+  - Field
+  - RopeUp
+  - attackPointNPC
+  - RopeEnd
+  - obstacle
+  - EquipSymbolPoint
+  - Boom
+  - grass
+  - weapon
+  - EffectSound
+  - EquipHatPoint
+  - DecompositionObject
+  - thorns
+  - Tree
+  - coin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BackField
+  - Enemy
+  - Npc
+  - Interactable
+  - IgnorePlayer
+  - Player
+  - Cameras
+  - CameraRestric
+  - Destructable
+  - EnemyWeapon
+  - BossWeakPoint
+  - Bullet
+  - InBuilding
+  - Rope
+  - pushed
+  - Item
+  - mapObject
+  - NpcBullet
+  - DecompositionObject
+  - MovedObject
+  - WarpPoint
+  - FlockPoint
+  - PlayerDrop
+  - Platform
+  m_SortingLayers:
+  - name: Water
+    uniqueID: 2116099231
+    locked: 0
+  - name: Level
+    uniqueID: 2344118779
+    locked: 0
+  - name: Front
+    uniqueID: 3405993979
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: WorldScript
+    uniqueID: 2373477621
+    locked: 0
+  - name: Npc
+    uniqueID: 2065592065
+    locked: 0
+  - name: Player
+    uniqueID: 2237742717
+    locked: 0
+  - name: FileldLayer
+    uniqueID: 826537457
+    locked: 0
+  - name: WorldUI
+    uniqueID: 368112157
+    locked: 0
+  - name: FrontLayer
+    uniqueID: 2871881265
+    locked: 0

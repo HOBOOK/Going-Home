@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ItemCollection>
+  <Items>
+    <Item id="1000">
+      <Name>None</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>0</WeaponType>
+      <MinAttack>5</MinAttack>
+      <MaxAttack>15</MaxAttack>
+      <Value>0</Value>
+    </Item>
+    <Item id="1101">
+      <Name>Gun</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>1</WeaponType>
+      <MinAttack>20</MinAttack>
+      <MaxAttack>50</MaxAttack>
+      <Value>2000</Value>
+    </Item>
+    <Item id="1201">
+      <Name>Sword</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>2</WeaponType>
+      <MinAttack>10</MinAttack>
+      <MaxAttack>20</MaxAttack>
+      <Value>1000</Value>
+    </Item>
+    <Item id="1202">
+      <Name>Hwando</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>2</WeaponType>
+      <MinAttack>20</MinAttack>
+      <MaxAttack>40</MaxAttack>
+      <Value>10000</Value>
+    </Item>
+    <Item id="1203">
+      <Name>BlackHwando</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>2</WeaponType>
+      <MinAttack>50</MinAttack>
+      <MaxAttack>100</MaxAttack>
+      <Value>100000</Value>
+    </Item>
+    <Item id="1301">
+      <Name>Knife</Name>
+      <Description>good</Description>
+      <ItemType>0</ItemType>
+      <WeaponType>3</WeaponType>
+      <MinAttack>30</MinAttack>
+      <MaxAttack>50</MaxAttack>
+      <Value>2000</Value>
+    </Item>
+  </Items>
+
+</ItemCollection>
